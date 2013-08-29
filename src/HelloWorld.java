@@ -5,6 +5,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World");
 		System.out.println("\t_/\\_\t");
+		System.out.println("Hello Again!");
 		
 	}
 
